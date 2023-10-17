@@ -53,4 +53,4 @@ For comprehensive details on this endpoint, check out the official [Mobula API d
 
 ---
 
-### Crafted with ❤️ leveraging the powerful [Mobula API](https://developer.mobula.fi/) and enhanced with [push.js](https://pushjs.org/).
+### Crafted with ❤️ leveraging [Mobula API](https://developer.mobula.fi/) and enhanced with [push.js](https://pushjs.org/).
