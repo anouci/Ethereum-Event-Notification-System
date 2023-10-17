@@ -45,7 +45,7 @@ Input the Ethereum contract address into the dashboard interface to start monito
 Our system predominantly employs the Mobula API's following endpoint:
 
 - **Transactions List:** 
-  - **Method:** GET (Assumption, as the method isn't specified)
+  - **Method:** GET
   - **Endpoint:** `https://api.app-mobula.com/api/1/transactions/list`
   - **Description:** Fetch all ERC20, ERC721 & normal transactions from any EVM-compatible wallets.
   
